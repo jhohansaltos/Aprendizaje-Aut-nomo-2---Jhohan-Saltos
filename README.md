@@ -1,11 +1,19 @@
 Proyecto Final:
+
 Piedra, Papel o Tijera:
+
 Datos del Proyecto 
+
 Nombre: Jhohan David Saltos López
+
 Materia: LOGICA DE PROGRAMACION 1-SOF-1B
+
 Fecha: 21 de diciembre del 2025.
+
 Objetivo: Simular el clásico juego de manos contra la computadora. El programa permite jugar múltiples rondas seguidas y lleva un conteo automático de quién va ganando. 
-Funcionalidades Principales: 
+
+Funcionalidades Principales:
+
 1. Validación de Errores: Si el usuario ingresa letras o números incorrectos, el programa solicita nuevamente los datos. 
 2. Oponente Aleatorio: La computadora elige su jugada al azar en cada turno. 
 3. Marcador Acumulativo: Suma y muestra las victorias, derrotas y empates al final de cada ronda. 
